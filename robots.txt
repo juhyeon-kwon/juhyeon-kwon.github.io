@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://joohyun-kwon.github.io/sitemap.xml
+Sitemap: https://juhyeon-kwon.github.io/sitemap.xml
