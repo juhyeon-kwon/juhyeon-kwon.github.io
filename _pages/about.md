@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: <a href='#'>VCAI Lab</a>. Korea Univ.
 
-profile:
+profile: 
   align: right
   image: joohyun-kwon.jpg
   image_circular: false # crops the image to make it circular
