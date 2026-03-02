@@ -28,7 +28,7 @@ announcements:
   I received a B.S in Electrical Engineering and Computer Science from 
   <a href="https://www.dgist.ac.kr/kor/index.do" target="_blank" rel="noopener noreferrer">DGIST</a>.
 </p>
-My research interests encompass both Human-centric Computer Vision and Computer Graphics. I am particularly focused on developing World Models that can understand, simulate, and render human dynamics within complex environments. My goal is to bridge the gap between visual perception and physical simulation to create more intelligent and realistic digital humans.
+I am interested in <strong>human-centric computer vision</strong> and <strong>generative modeling</strong>. My current research focuses on <strong>world models</strong> for digital humans and robots, aiming to create more realistic simulations.
 <br>
 <div class="social">
   <div class="contact-icons" style="display: flex; align-items: center; gap: 30px; font-size: 3rem;">
