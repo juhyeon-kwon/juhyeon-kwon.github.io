@@ -384,7 +384,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-vcai-lab",
+            },},{id: "news-one-paper-accepted-to-cvpr-2026",
+          title: 'One paper accepted to CVPR 2026.',
+          description: "",
+          section: "News",},{id: "news-joined-vcai-lab",
           title: 'Joined VCAI Lab !',
           description: "",
           section: "News",},{id: "projects-project-1",
