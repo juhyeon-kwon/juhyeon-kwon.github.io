@@ -32,7 +32,7 @@ I am interested in <strong>human-centric computer vision</strong> and <strong>ge
 <br>
 <div class="social">
   <div class="contact-icons" style="display: flex; align-items: center; gap: 30px; font-size: 3rem;">
-    <a href="{{ '/assets/pdf/JOOHYUN_KWON_CV__JAN_2026_.pdf' | relative_url }}" title="CV" style="color: inherit; text-decoration: none;">
+    <a href="{{ '/assets/pdf/JOOHYUN_KWON_CV__Feb_2026_.pdf' | relative_url }}" title="CV" style="color: inherit; text-decoration: none;">
       <i class="ai ai-cv"></i>
     </a>
     <a href="https://www.linkedin.com/in/joohyun-kwon-80b5602a7/" title="LinkedIn" style="color: inherit; text-decoration: none;">
