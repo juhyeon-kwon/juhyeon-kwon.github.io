@@ -18,6 +18,21 @@
         --fp-maxw: 1404px;
       }
 
+      /* Pin al-folio's theme variables to this page's dark palette, regardless of
+         the site-wide light/dark toggle, so global rules like
+         `p,h1..h6,div,li,span{color:var(--global-text-color)}` always render light. */
+      :root,
+      html[data-theme="light"],
+      html[data-theme="dark"] {
+        --global-bg-color: #0a0a0f;
+        --global-text-color: #eceaf4;
+        --global-text-color-light: #8b8a9e;
+        --global-theme-color: #8a6bff;
+        --global-hover-color: #8a6bff;
+        --global-card-bg-color: #13131c;
+        --global-divider-color: #262633;
+      }
+
       html,
       body.fp-body {
         background: var(--fp-ground) !important;
@@ -106,7 +121,7 @@
 
       /* hero portrait */
       .fp-portrait {
-        position: relative; justify-self: center; width: 384px; max-width: 100%;
+        position: relative; justify-self: center; width: 269px; max-width: 100%;
       }
       .fp-portrait::before {
         content: ""; position: absolute; inset: -18px;
@@ -120,7 +135,7 @@
         filter: saturate(1.02) contrast(1.02);
       }
       @media (max-width: 1040px) {
-        .fp-portrait { width: 260px; order: -1; }
+        .fp-portrait { width: 210px; order: -1; }
       }
 
       .fp-scrollcue {
